@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 41e06f3b3799a044b82b49356c95d447
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CutEffect: {fileID: 5798119875245238819, guid: 9c95e84f4e1783249b77a6ffa746ade0, type: 3}
+  - cutter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
